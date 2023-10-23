@@ -11,4 +11,5 @@ The **DP4+App** is a powerful tool designed to assist researchers in the structu
 
 This is a comprehensive software was designed to facilitate DP4+ and MM-DP4+ calculations. With its user-friendly graphical interface, users can seamlessly handle multiple Gaussian calculations and leverage automated data processing for accurate probabilistic analysis. The software offers the flexibility to perform Custom-DP4+ calculations, enabling parameterization of theory levels as per individual requirements.
 
- <img alt="Show" src="https://github.com/Sarotti-Lab/DP4plus-App/assets/101182775/a459f018-78c8-4e43-b7de-0dd92eb40a48 " width="192" height="237"/>
+ <img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/9b5c2965-84ab-47ac-9ae2-083452d56e0a" width="192" height="237"/>
+
