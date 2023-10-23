@@ -2,6 +2,9 @@
 
 Pasu come gato
 
+![image](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780)
+
+
 For all work using **DP4+App** please cite the primary publication: 
 
 * _J. Nat. Prod. 2023_, XXXX, XXX, XXX-XXX . https://doi.org/10.1021/acs.jnatprod.3c00566
