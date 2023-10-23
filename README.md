@@ -1,6 +1,6 @@
-# DP4+ App
+# XXIV-SINAQO-2023
 
-This repository contains the tool presented in the publication titled **DP4+App: Finding the Best Balance between Computational Cost and Predictive Capacity in the Structure Elucidation Process by DP4+. Factors Analysis and Automation**, published in the Journal of Natural Products on September 18, 2023. 
+Pasu come gato
 
 For all work using **DP4+App** please cite the primary publication: 
 
