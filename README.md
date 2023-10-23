@@ -13,3 +13,4 @@ This is a comprehensive software was designed to facilitate DP4+ and MM-DP4+ cal
 
  <img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/9b5c2965-84ab-47ac-9ae2-083452d56e0a" width="192" height="237"/>
 
+![Diapositiva1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/6d3e77c2-f866-4822-8091-416e200af60b)
