@@ -4,6 +4,15 @@
 
 5-8 de Noviembre 2023, Rosario - Santa Fe - Argentina
 
+Contenido 
+* Poster Beti
+* Poster Mili
+* Poster Marta
+* Poster Zequi
+* Poster Bruno
+* Poster Pasu
+* Poster Colo
+
 ## Poster 1
 Sarasa
 
