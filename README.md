@@ -2,7 +2,7 @@
 
 Pasu come gato
 
-<img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780" width="867" height="150"/>
+<img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780" width="432" height="75"/>
 
 For all work using **DP4+App** please cite the primary publication: 
 
