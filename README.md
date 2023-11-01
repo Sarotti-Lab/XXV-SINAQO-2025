@@ -17,3 +17,6 @@
 Sarasa
 
 ![Diapositiva1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/6d3e77c2-f866-4822-8091-416e200af60b)
+
+
+[Sinaqo_JPerez_2023_rev.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13230850/Sinaqo_JPerez_2023_rev.pdf)
