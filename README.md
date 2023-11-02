@@ -23,7 +23,26 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 * **IMPACTO DE LOS SUSTITUYENTES HALOGENADOS EN EL CALCULO DE RMN Y SU INFLUENCIA EN LA ASIGNACIÓN ESTRUCTURAL POR DP4+.**
   **Lucas Passaglia**, María M. Zanardi y Ariel M. Sarotti
 
-![Presentación1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/934d2817-d087-4069-a444-f8e6fb6093cc)
+#### [FQO84 - SINAQO2023 - Passaglia.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242494/FQO84.-.SINAQO2023.-.Passaglia.pdf)
+* **MESSI: un nuevo método para la asignación estereoquímica de moléculas flexibles y polihidroxiladas.**
+  Maribel O. Marcarino, **Lucas Passaglia**, María M. Zanardi y Ariel M. Sarotti.
+
+#### [FQO91 - SINAQO2023 - Perez.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242509/FQO91.-.SINAQO2023.-.Perez.pdf)
+* **EXPLORACIÓN EXHAUSTIVA DE NIVELES DE TEORÍA DFT PARA LA PREDICCIÓN CUANTITATIVA DE REACTIVIDAD EN REACCIONES DE DIELS ALDER**
+**José A. Pérez**, María M. Zanardi y Ariel M. Sarotti
+
+#### [SO31 - SINAQO2023 - Cicetti.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242527/SO31.-.SINAQO2023.-.Cicetti.pdf)
+* **SÍNTESIS DE NOVEDOSOS DERIVADOS DE BIOMASA POTENCIALMENTE ANTICANCERÍGENOS: ESTUDIO TEÓRICO-EXPERIMENTAL.**
+  **Soledad Cicetti**, Ariel M. Sarotti
+
+#### [SO34 - SINAQO 2023 - Cortés.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242556/SO34.-.SINAQO.2023.-.Ivan.pdf)
+* **HOJA DE RUTA PARA LA SÍNTESIS TOTAL DE PRODUCTOS NATURALES GUIADOS POR CÁLCULOS. DYSIHERBOL A COMO CASO DE ESTUDIO.**
+**Iván Cortés**, Ariel M. Sarotti
+
+#### [SO35 - SINAQO 2023 - Cortés.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242561/SO35.-.SINAQO.2023.-.Ivan.pdf)
+* **DESARROLLO DE UNA ESTRATEGIA INNOVADORA PARA LA VALIDACIÓN ESTRUCTURAL MEDIANTE CÁLCULOS DE RMN ULTRARRÁPIDOS Y CORRELACIÓN ESTADÍSTICA.**
+  **Iván Cortés**, Ariel M. Sarotti
+
 
 ## Contactos
 Sarasa
