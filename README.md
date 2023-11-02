@@ -4,7 +4,6 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 
 <img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780" width="578" height="100"/>
 
-
 ## Posters 
 
 #### [FOQ38 - SINAQO-2023 -Franco.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13241703/FOQ38.-.SINAQO-2023.-Franco.pdf)
@@ -43,6 +42,7 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 * **DESARROLLO DE UNA ESTRATEGIA INNOVADORA PARA LA VALIDACIÓN ESTRUCTURAL MEDIANTE CÁLCULOS DE RMN ULTRARRÁPIDOS Y CORRELACIÓN ESTADÍSTICA.**
   **Iván Cortés**, Ariel M. Sarotti
 
+![Presentación1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/a5b82c13-6e97-42e0-9a1b-66f4dac914f9)
 
 ## Contactos
 Sarasa
