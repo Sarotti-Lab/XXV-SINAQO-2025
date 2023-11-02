@@ -45,4 +45,5 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 ![Presentación1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/a5b82c13-6e97-42e0-9a1b-66f4dac914f9)
 
 ## Contactos
-Sarasa
+* zanardi@inv.rosario-conicet.gov.ar
+* sarotti@iquir-conicet.gov.ar
