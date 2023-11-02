@@ -6,13 +6,9 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 
 ## Posters 
 
-#### [FOQ38 - SINAQO-2023 -Franco.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13241703/FOQ38.-.SINAQO-2023.-Franco.pdf)
+#### [FQO38 - SINAQO-2023 -Franco.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13241703/FOQ38.-.SINAQO-2023.-Franco.pdf)
 * **DP4+ APP: SIMPLIFICANDO LA ELUCIDACIÓN ESTRUCTURAL IN SILICO. ALCANCES Y VENTAJAS DE CADA MÉTODO DE CORRELACIÓN.** 
  **Bruno A. Franco**, Ezequiel R. Luciano, Ariel M. Sarotti y María M. Zanardi 
-
-#### [FQO61 - SINAQO2023 - Amichetti.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242421/FQO61.-.SINAQO2023.-.Amichetti.pdf)
-* **ALCANCES Y LIMITACIONES DE MÉTODOS DFT PARA LA CORRECTA PREDICCIÓN ESPECTROSCÓPICA DE SISTEMAS CON PUENTES DE HIDRÓGENO INTRAMOLECULARES.**
-  **Milagros D. Amichetti**, María M. Zanardi y Ariel M. Sarotti
 
 #### [FQO62 - SINAQO2023 - LucianoER.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242428/FQO62.-.SINAQO2023.-.LucianoER.pdf)
 * **ESTUDIOS DE RMN _IN SILICO_ PARA LA ASIGNACIÓN ESTEREOQUÍMICA DE PEQUEÑOS HETEROCICLOS TENSIONADOS.**
@@ -41,6 +37,10 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 #### [SO35 - SINAQO 2023 - Cortés.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242561/SO35.-.SINAQO.2023.-.Ivan.pdf)
 * **DESARROLLO DE UNA ESTRATEGIA INNOVADORA PARA LA VALIDACIÓN ESTRUCTURAL MEDIANTE CÁLCULOS DE RMN ULTRARRÁPIDOS Y CORRELACIÓN ESTADÍSTICA.**
   **Iván Cortés**, Ariel M. Sarotti
+
+#### [SO61 - SINAQO2023 - Amichetti.pdf](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/files/13242421/FQO61.-.SINAQO2023.-.Amichetti.pdf)
+* **ALCANCES Y LIMITACIONES DE MÉTODOS DFT PARA LA CORRECTA PREDICCIÓN ESPECTROSCÓPICA DE SISTEMAS CON PUENTES DE HIDRÓGENO INTRAMOLECULARES.**
+  **Milagros D. Amichetti**, María M. Zanardi y Ariel M. Sarotti
 
 ![Presentación1](https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/a5b82c13-6e97-42e0-9a1b-66f4dac914f9)
 
