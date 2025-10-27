@@ -4,11 +4,11 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 
 <img alt="Show" src="https://github.com/Sarotti-Lab/XXV-SINAQO-2025/raw/main/LA2.png" width="578" height="100"/>
 
-## Posters 
+## Posters
 
-#### [FQOxx - SINAQO2025 - Apellido.pdf]()
-* **Título del trabajo.**  
-  **Autor(es)**
+#### [FQO085 - SINAQO2025 - Passaglia.pdf](https://github.com/Sarotti-Lab/XXV-SINAQO-2025/raw/main/posters/FQO38_SINAQO2025_Passaglia.pdf)
+* **ESTUDIO DEL EFECTO DEL ÁTOMO PESADO EN EL CÁLCULO DE DESPLAZAMIENTOS QUÍMICOS DE RMN Y SU IMPACTO EN LA ASIGNACIÓN ESTEREOQUÍMICA POR DP4+**  
+  **Lucas Passaglia**,Ignacio Maciá, M. Zanardi, A. E. Sarotti.
 
 
 
