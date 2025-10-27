@@ -2,7 +2,7 @@
 
 Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarotti y la Dra. Zanardi presentados en el **XXV Simposio Nacional de Química Orgánica (SINAQO 2025)**, organizado por la SAIQO.
 
-<img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780" width="578" height="100"/>
+<img alt="Show" src="https://github.com/Sarotti-Lab/XXIV-SINAQO-2023/assets/101182775/eb84d5ae-ff25-4d51-a054-6638c6336780](https://github.com/Sarotti-Lab/XXV-SINAQO-2025/blob/main/LA.png" width="578" height="100"/>
 
 ## Posters 
 
