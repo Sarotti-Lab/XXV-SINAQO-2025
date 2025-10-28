@@ -16,11 +16,11 @@ Bienvenidos al repositorio de posters del grupo de investigación del Dr. Sarott
 * **MODELOS HÍBRIDOS BASADOS EN MACHINE LEARNING PARA SUPERAR LAS LIMITACIONES DE LOS MÉTODOS DFT EN LA PREDICCIÓN DE PROPIEDADES QUÍMICAS**  
   J. A. Pérez Mendoza, B. A. Franco, **E. R. Luciano**, M. M. Zanardi, A. M. Sarotti.
 
-#### [FQO-084-SINAQOXXV-Passaglia.pdf](https://github.com/user-attachments/files/23194512/FQO084-SINAQO2025-Passaglia.pdf)
+#### [FQO-084-SINAQOXXV-PassagliaL.pdf](https://github.com/user-attachments/files/23194512/FQO084-SINAQO2025-Passaglia.pdf)
 * **INSIGHT-DP4+: Evaluación de la robustez de la asignación estructural frente a incertidumbres experimentales y computacionales**  
   M. D. Amichetti, **L. Passaglia**, M. M. Zanardi, A. M. Sarotti.
 
-#### [FQO-085-SINAQOXXV-Passaglia.pdf](https://github.com/user-attachments/files/23169438/FQO085-SINAQO2025-Passaglia.pdf)
+#### [FQO-085-SINAQOXXV-PassagliaL.pdf](https://github.com/user-attachments/files/23169438/FQO085-SINAQO2025-Passaglia.pdf)
 * **ESTUDIO DEL EFECTO DEL ÁTOMO PESADO EN EL CÁLCULO DE DESPLAZAMIENTOS QUÍMICOS DE RMN Y SU IMPACTO EN LA ASIGNACIÓN ESTEREOQUÍMICA POR DP4+**  
   **L. Passaglia**, I. Maciá, M. Zanardi, A. M. Sarotti.
 
